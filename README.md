@@ -1,7 +1,7 @@
 # 👋 Welcome to my git<br>
 Computer science student currently diving into the fascinating world of **cybersecurity** 🔐<br><br>
 ## What you'll find here<br>
-This GitHub is my playground and learning journal! Of course my code doesn't always compile on the first try, but we are here to learn!<br>You'll discover:<br><br>- 🛡️ **My first steps in cybersecurity** - CTFs, tools, and experiments<br>- 💻 **Learning projects** - Sometimes messy code, but always with the drive to learn<br>- 🔧 **Various experiments** - We learn best by breaking... then fixing things!<br><br><br>
+This GitHub is my playground and learning journal! Of course my code doesn't always compile on the first try, but we are here to learn!<br>You'll discover:<br><br>- 🛡️ **My first steps in cybersecurity** - CTFs, tools, and experiments<br>- 💻 **Learning projects** - Sometimes messy code, but always with the drive to learn<br>- 🔧 **Various experiments** - We learn best by breaking... then fixing things!<br><br>
 
 
 ## Socials:
